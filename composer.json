@@ -1,0 +1,15 @@
+{
+    "name": "zzy/woocommerce-wechat-and-alipay",
+    "description": "Wechat and Alipay payment plugin for WooCommerce, one is enough",
+    "require": {
+        "maatwebsite/excel": "^3.0",
+        "guzzle/guzzle": "^3.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "my101du",
+            "email": "my101du@gmail.com"
+        }
+    ]
+}
